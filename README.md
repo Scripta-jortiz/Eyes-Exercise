@@ -8,4 +8,4 @@ En este proyecto el principal proposito era hacer que los ojos que se ve en pant
 ## How to run
 simplemente descargue el archivo y abra el index eso lo llevara a la pagina para poder interactuar con el ojo
 ## Licencia
-Eyes Exercise
+[licencia MIT]([https://](https://github.com/Scripta-jortiz/Eyes-Exercise?tab=MIT-1-ov-file)https://github.com/Scripta-jortiz/Eyes-Exercise?tab=MIT-1-ov-file)
